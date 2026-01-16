@@ -96,7 +96,7 @@ p {
 
 /* Moving no button */
 #no-btn-final {
-    position: fixed;
+    position: absolute;
 }
 
 /* Responsive design for tablets and mobiles */
